@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Angular  WebApp",
+        "description": "This is a sample 4.json my file for demonstration purposes.",
+        "number": 123,
+        "image": "https://picsum.photos/seed/1233/150"
+    },
+
+    {
+        "title": "Firebase Integration",
+        "description": "Firebase project with CRUD",
+        "number": 456,
+        "image": "https://picsum.photos/seed/1233/150"
+    },
+
+    {
+        "title": "Filter Pipe Example",
+        "description": "Example of filter pipe in Angular",
+        "number": 789,
+        "image": "https://picsum.photos/seed/1233/150"
+    }
+]
